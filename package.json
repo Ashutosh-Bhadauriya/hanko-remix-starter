@@ -15,7 +15,6 @@
     "@remix-run/react": "^2.1.0",
     "@remix-run/serve": "^2.1.0",
     "@teamhanko/hanko-elements": "^0.9.0",
-    "Elements": "link:@teamhanko/hanko-elements/dist/Elements",
     "cookie": "^0.6.0",
     "isbot": "^3.6.8",
     "jose": "^5.1.3",
