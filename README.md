@@ -31,7 +31,7 @@ git clone https://github.com/teamhanko/hanko-remix-starter.git
    * Create a `.env` file in the root directory and add the following environment variables:
 
     ```sh
-    NEXT_PUBLIC_HANKO_API_URL=your-hanko-api-url
+    HANKO_API_URL=your-hanko-api-url
     ```
 
    * Replace `your-hanko-api-url` with your actual Hanko API URL.
